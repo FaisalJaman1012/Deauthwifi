@@ -35,7 +35,7 @@ To install the deauthwifi tool, follow these steps:
     sudo ./deauthwifi.sh
 
 <div style="text-align:center">
-    <img src="https://github.com/FaisalJaman1012/deauthwifi/assets/91938237/925f1a2e-2e89-4f90-8f33-456b7215edff" alt="Step 3">
+    <img src="https://github.com/FaisalJaman1012/Deauthwifi/assets/91938237/925f1a2e-2e89-4f90-8f33-456b7215edff" alt="Step 3">
   </div>
 
 2.Discover nearby Wi-Fi networks and view their details.
